@@ -93,15 +93,6 @@ The **Random Forest** model was chosen as it provided reliable accuracy without 
 
 ---
 
-## Images
-
-Include relevant plots and confusion matrices here. Use Markdown for images like:
-```markdown
-![Confusion Matrix - SVM](images/svm_confusion_matrix.png)
-```
-
----
-
 ## License
 
 This project is licensed under the MIT License.
