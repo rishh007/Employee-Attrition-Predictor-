@@ -18,8 +18,6 @@ In the business world, retaining talented employees is a significant challenge. 
 - [Data Preprocessing](#data-preprocessing)
 - [Feature Selection](#feature-selection)
 - [Implemented Models](#implemented-models)
-- [Results](#results)
-- [Conclusion](#conclusion)
 - [How to Use](#how-to-use)
 
 ---
