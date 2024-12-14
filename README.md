@@ -76,24 +76,7 @@ Four feature selection methods were explored to optimize model performance:
 
 ---
 
-## Results
-
-Performance metrics for different models (Accuracy, Precision, Specificity, Sensitivity) across feature selection methods:
-
-| Model          | Accuracy (%) | Precision (%) | Specificity (%) | Sensitivity (%) |
-|----------------|--------------|---------------|-----------------|-----------------|
-| **XGBoost**    | **99.93**    | 99.86         | 99.86          | 100             |
-| Random Forest  | 96.57        | 95.78         | 96.24          | 96.95           |
-| SVM            | 96.93        | 96.38         | 96.77          | 97.11           |
-| KNN            | 78.29        | 82.88         | 81.38          | 75.69           |
-| Logistic Reg.  | 77.57        | 79.71         | 79.05          | 76.20           |
-| Naive Bayes    | 76.36        | 80.72         | 79.13          | 74.01           |
-
----
-
-## Conclusion
-
-The **Support Vector Machine (SVM)** provided reliable accuracy without overfitting, making it the preferred model for practical use. While XGBoost achieved the highest accuracy, its overfitting limits generalizability. The **Recursive Feature Elimination (RFE)** method narrowed the features to 8, improving efficiency while retaining predictive power.
+The **Random Forest** model was chosen as it provided reliable accuracy without overfitting with lesser number of features, making it the preferred model for practical use. While XGBoost achieved the highest accuracy, its overfitting limits generalizability. The **Recursive Feature Elimination (RFE)** method narrowed the features to 8, improving efficiency while retaining predictive power.
 
 ---
 
@@ -125,20 +108,9 @@ Include relevant plots and confusion matrices here. Use Markdown for images like
 
 ---
 
-## Contributors
-
-- Pavankumar Batchu
-- Pranay Bhagwat
-- Anushka Bhalerao
-- Sachin Bhandare
-- Rishabh Bhandari
-
----
-
 ## License
 
 This project is licensed under the MIT License.
 
 ---
 
-Feel free to tweak or extend as needed!
