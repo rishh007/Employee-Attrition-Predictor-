@@ -1,18 +1,14 @@
 
-The Employee Attrition Predictor helps organizations identify employees likely to leave by analyzing historical data. Built using Random Forest and Recursive Feature Elimination, it highlights key factors influencing attrition. An interactive Shiny App interface allows users to upload data, view predictions, and explore contributing factors easily.
-
-![image](https://github.com/user-attachments/assets/25bb5c23-138b-4355-94b9-f13dfb08ed56)
-
----
-
 # Employee Attrition Predictor
 
 **Predict employee attrition using machine learning techniques and help businesses retain talent effectively.**
 
 ## Project Overview
 
-In the business world, retaining talented employees is a significant challenge. This project analyzes and predicts employee attrition using IBM's HR Analytics Employee Attrition dataset. We employ various feature selection methods and machine learning models to understand the factors influencing attrition and provide actionable insights.
+In the business world, retaining talented employees is a significant challenge. This project analyzes and predicts employee attrition using IBM's HR Analytics Employee Attrition dataset. The Employee Attrition Predictor helps organizations identify employees likely to leave by analyzing historical data. Built using Random Forest and Recursive Feature Elimination, it highlights key factors influencing attrition. An interactive Shiny App interface allows users to upload data, view predictions, and explore contributing factors easily.
 
+
+![image](https://github.com/user-attachments/assets/25bb5c23-138b-4355-94b9-f13dfb08ed56)
 ---
 
 ## Table of Contents
